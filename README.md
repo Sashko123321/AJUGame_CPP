@@ -11,13 +11,11 @@
 
 - **Engaging Gameplay**: Navigate through underground challenges with Johnny.
 - **Rich Graphics**: Leveraging SFML for smooth and responsive 2D graphics.
-- **Cross-Platform Support**: Compatible with Windows, macOS, and Linux.
+
 
 ## Installation
 
-To compile and run the game on your local machine, follow these steps:
-
-1. **Clone the Repository**:
+**Clone the Repository**:
 
    ```bash
    git clone https://github.com/Sashko123321/AJUGame_CPP.git
